@@ -1,4 +1,4 @@
-# Using Logistic Regression to Predict Wine Quality & Wine Type
+## Using Logistic Regression to Predict Wine Quality & Wine Type
 
 Two datasets containing information from red and white variants of the Portuguese "Vinho Verde" wine were provided for the challenge. The red and white wine datasets each contain results from physicochemical tests of the wines:
 
